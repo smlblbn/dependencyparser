@@ -1,0 +1,10 @@
+name: parser
+dependencies:
+- python=3.5.1
+- numpy
+- matplotlib
+- pandas
+- seaborn
+- scikit-learn
+- scipy
+- nltk
